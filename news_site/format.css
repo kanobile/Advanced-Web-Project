@@ -1,0 +1,62 @@
+body{
+  background: #333333;
+}
+
+h1{
+  font-family: 'Alfa Slab One', cursive;
+  margin-top: 11px;
+}
+
+h2{
+  margin-bottom: 12px;
+}
+
+h3{
+  font-family: 'Roboto Slab', serif;
+  color: #000000;
+  margin-top: 8px;
+  line-height: 28px;
+}
+
+h4{
+  font-family: 'Roboto Slab', serif;
+  color: #000000;
+  margin-top: 8px;
+  line-height: 24px;
+}
+
+h6{
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Literata:wght@200&display=swap" rel="stylesheet">
+  font-family: 'Literata', serif;
+  color: #000000;
+  margin-top: 8px;
+  line-height: 20px;
+}
+
+p{
+  font-family: 'Literata', serif;
+  color: #000000;
+  margin-top: 8px;
+  line-height: 20px;
+}
+
+#subh{
+  text-align: center;
+  margin-left: 40%;
+}
+
+.left_pic{
+  width: 100px;
+  float: left;
+  padding-right: 10px;
+}
+
+
+a{
+  margin-left: 1px;
+}
+
+#footer{
+  text-align: center;
+}

@@ -1,0 +1,71 @@
+
+
+body{
+  background: #a8250d;
+  font-family: "helvetica","arial","sans-serif";
+  font-size: 1.2em;
+
+}
+
+h1{
+  color: #444444;
+  margin-top: 0px;
+}
+
+#nav{
+  background: #daa90d;
+  width: 90%;
+  text-align: center;/*centers content*/
+  margin-top: 10px;
+  margin: auto;/*centers region*/
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#content{
+  background: #aaaaaa;
+  width: 90%;
+  min-height: 30%;
+  text-align: center;/*centers content*/
+  margin: auto;/*centers region*/
+  padding: 10px;
+  box-sizing: border-box;
+  margin-top: 10px;
+  background-image: url("images/bg_1.jpg");
+  background-size: cover;
+}
+
+#footer{
+  background: #daa90d;
+  width: 90%;
+  min-height: 10%;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+
+h1{
+  margin-top: 0px;
+  color: #ffffff;
+  font-family: 'Bodoni Moda', serif;
+}
+
+.pic1{
+  width: 50%;
+  border-radius: 25px;
+  box-shadow: 0px 0px 10px #000000;
+
+}
+.pic2{
+  width: 100%;
+  box-shadow: 0px 0px 10px #000000;
+
+}
+
+
+a:link{text-decoration: none; color: #770000; margin: 20px;}
+a:visited{text-decoration: none; color: #770000; margin: 20px;}
+a:active{text-decoration: none; color: #770000; margin: 20px;}
+a:hover{text-decoration: none; color: #000000; margin: 20px;}
